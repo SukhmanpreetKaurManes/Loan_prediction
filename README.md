@@ -1,2 +1,3 @@
 # Loan_prediction
-This project predicts whether the load will be approved or not.
+In this project I have performed EDA and experimented with data preprocessing techniques and model building to make my basics stronger.
+## Happy Learning
